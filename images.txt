@@ -1,7 +1,7 @@
 #nginx
 #python
 #centralx/clash:1.18.0
-sonatype/nexus3:3.76.0-ubi
+sonatype/nexus3:3.76.0-java17-ubi
 
 #python:3.11-slim
 #python:3.11.10
